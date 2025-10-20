@@ -1,6 +1,6 @@
 #### 1.string s中的s.substr(pos, len) 的第二个参数是长度（length）；
 
-![image-20251013101753688](D:\LIUYUFEI\code\Notes\assets\image-20251013101753688.png)
+![image-20251013101753688](./assets/image-20251013101753688.png)
 
 ---
 
